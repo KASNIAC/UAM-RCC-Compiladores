@@ -1,0 +1,10 @@
+void main( ) {
+   int a = 5;
+   7      for   // hola a todos :)
+   7   do    while
+   @     &     else  |
+      ==       +           +=
+   !=           if
+   <   <=  [{}]
+   print(123);   !
+}    // adiosssssss
